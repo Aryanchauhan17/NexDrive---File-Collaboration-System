@@ -2,9 +2,6 @@
 
 A production-grade REST API for a cloud file collaboration platform, similar to Google Drive. Built with Node.js, Express, MongoDB, Redis, and Socket.io.
 
-## 🚀 Live API
-> Deploy on Render/Railway and add URL here
-
 ## 🛠️ Tech Stack
 
 | Technology | Purpose |
